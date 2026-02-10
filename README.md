@@ -1,7 +1,8 @@
-- Hey! I'm Janne, a PhD student at CYU on active matter systems. I'm currently working on several aspects of collective motion, 
-from rod-shaped twitching bacteria to low-dimensional systems. 📖🦠🐑
+- Hey! I'm Janne, a former PhD student at CYU on active matter systems. My projects involved working on several aspects of collective motion, 
+from rod-shaped twitching bacteria to phase transitions low-dimensional systems. 📖🦠🐑
 - I'm also interested in all aspects of non-equilibrium statistical mechanics and theoretical physics in general. :atom:
-- You can reach me by email janne-cristine.de-melo-santana@cyu.fr or even by Instagram or threads on @jannecristine ⭐🖤
+- In addition, I am also interested in applying the same tools used in non-equilibrium statistical mechanics and simulations techniques to quantitative finance problems.
+- You can reach me by email jannecristine@gmail.com or even by Instagram or threads on @jannecristine ⭐🖤
   
 
 
