@@ -1,4 +1,4 @@
-- Hey! I'm Janne, a former PhD student at CYU on active matter systems. My projects involved working on several aspects of collective motion, 
+- Hey! I'm Janne and I have a background in Physics and Active Matter systems. My projects involved working on several aspects of collective motion, 
 from bacteria dynamics to phase transitions low-dimensional systems.
 - I'm also interested in all aspects of modeling and analyzing complex syetems: from non-equilibrium statistical mechanics to theoretical physics in general. :atom:📖🦠🐑
 - In additional, I am very interested in computational and quantitative tools (modeling, simulations, data analysis) to solve complex real world problems, with direct applications and results.
